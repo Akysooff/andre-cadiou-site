@@ -1,0 +1,424 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ro",
+				"row-reverse\tflex-direction"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"con",
+				"conteneurp1"
+			],
+			[
+				"tran",
+				"translateX()\ttransform"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"sy",
+				"Sylvie"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"borde",
+				"border-right"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"in",
+				"inline-flex"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"co",
+				"conteneurt1"
+			],
+			[
+				"fl",
+				"flex-start"
+			],
+			[
+				"alg",
+				"align-items"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"ex",
+				"Expo"
+			],
+			[
+				"ca",
+				"Cadiou"
+			],
+			[
+				"mag",
+				"margin-right"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"border-top",
+				"border-top-width"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"boder",
+				"border-right"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"C",
+				"Cadiou"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"txt",
+				"text-align"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"clor",
+				"color"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"start",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Geneviève/Music/Playlists/Nouvelle playlist.wpl",
+		"/C/Users/Geneviève/Desktop/guillaume/site papy/Page/Expo.html",
+		"/C/Users/Geneviève/Desktop/guillaume/site papy/Page/toiles.html",
+		"/C/Users/Geneviève/Desktop/guillaume/site papy/Page/Acceuil.html",
+		"/C/Users/Geneviève/Desktop/guillaume/Site papy code/Page/contacte.html",
+		"/C/Users/Geneviève/Desktop/guillaume/Site papy code/Page/toiles.html",
+		"/C/Users/Geneviève/Desktop/guillaume/Site papy code/Page/Expo.html",
+		"/C/Users/Geneviève/Desktop/guillaume/Site papy code/Page/Acceuil.html",
+		"/C/Users/Geneviève/Pictures/Tableau/Tableaux 2015/Nouveau dossier/Tableaux 2015.html",
+		"/C/Users/Geneviève/Desktop/site/,nbvcxw/page1.html",
+		"/C/Users/Geneviève/Pictures/Nouveau dossier/Lecture d'un message - mail Orange.html",
+		"/C/Users/Geneviève/Documents/Motorisation portail coulissant 300Kg CAME U9618 Motorisation+.html",
+		"/C/Users/Geneviève/Downloads/ATT00076.html",
+		"/C/Users/Geneviève/Desktop/guillaume/page2.html",
+		"/C/Users/Geneviève/Desktop/guillaume/page3.html",
+		"/C/Users/Geneviève/Desktop/guillaume/page4.html",
+		"/C/Users/Geneviève/Desktop/AHAHAH/page4.html",
+		"/C/Users/Geneviève/Desktop/AHAHAH/page3.html",
+		"/C/Users/Geneviève/Desktop/AHAHAH/page2.html",
+		"/C/Users/Geneviève/Desktop/AHAHAH/page1.html",
+		"/C/Users/Geneviève/Desktop/site/style.css",
+		"/C/Users/Geneviève/Desktop/site/conclusion.html",
+		"/C/Users/Geneviève/Desktop/site/Moteur.html",
+		"/C/Users/Geneviève/Desktop/page2.html",
+		"/C/Users/Geneviève/Desktop/site/Logiciel.html",
+		"/C/Users/Geneviève/Desktop/site/accueil.html",
+		"/C/Users/Geneviève/Desktop/site/,nbvcxw/style.css",
+		"/C/Users/Geneviève/Desktop/site/,nbvcxw/page4.html",
+		"/C/Users/Geneviève/Desktop/site/,nbvcxw/page3.html",
+		"/C/Users/Geneviève/Desktop/site/,nbvcxw/page2.html",
+		"/C/Users/Geneviève/Desktop/site/,nbvcxw/page/page4.html",
+		"/C/Users/Geneviève/Desktop/Site html test/fds.html",
+		"/C/Users/Geneviève/Desktop/site/test.html",
+		"/C/Users/Geneviève/Desktop/Site html test/Site.html",
+		"/C/Users/Geneviève/Desktop/Site html test/page 4",
+		"/C/Users/Geneviève/Desktop/Site html test/page3",
+		"/C/Users/Geneviève/Desktop/Site html test/page 2",
+		"/C/Users/Geneviève/Desktop/Tuto html.txt",
+		"/C/Users/Geneviève/Desktop/Site html test/Page d'accueil.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "news.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
