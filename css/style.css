@@ -64,6 +64,7 @@ ul#menut
 	list-style-type: none; 
 	display: flex;
 	align-items: center;
+	justify-content: space-around;
 	border: solid 2px rgb(124, 124, 124);
 	margin-left: 275px;
 	margin-right: 325px;
@@ -74,7 +75,6 @@ ul#menut li
 	margin: 5px;
 	font-size: 20px;
 	font-family: "Comic Sans MS", Georgia, sans-serif;
-
 }
 
 ul#menut li a:link {color: rgb(124, 124, 124); text-decoration: none;} 
